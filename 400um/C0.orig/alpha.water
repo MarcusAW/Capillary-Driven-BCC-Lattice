@@ -26,7 +26,6 @@ boundaryField
         value           uniform 1;
         inletValue      uniform 1;
     }
-
     atmosphere
     {
         type            zeroGradient;
