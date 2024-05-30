@@ -25,13 +25,11 @@ boundaryField
         type            fixedValue;
         value           uniform 0;
     }
-
     atmosphere
     {
         type            fixedValue;
         value           uniform 0;
     }
-
     porousMedia
     {
         type            fixedFluxPressure;
