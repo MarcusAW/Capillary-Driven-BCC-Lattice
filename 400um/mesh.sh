@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=validation3
+#SBATCH --job-name=400um_Mesh
 #SBATCH --time=1:00:00
 #SBATCH --ntasks=1
 #SBATCH --nodes=1
